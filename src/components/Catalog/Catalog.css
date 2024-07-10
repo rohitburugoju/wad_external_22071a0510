@@ -1,0 +1,62 @@
+
+/*  
+.Catalog {
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.Catalog ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Catalog li {
+  padding: 5px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #ddd;
+}
+
+.Catalog button {
+  background-color: #4CAF50; 
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+} */
+
+/* Catalog.css */
+
+.Catalog {
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.Catalog h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.Catalog ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Catalog li {
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+.Catalog .item-name {
+  font-weight: bold; 
+}
+
+.Catalog img {
+  margin: 20px auto;
+  padding: 10px;
+  height: 90px;
+  width: 90px;
+  padding: 5px;
+  margin-bottom: 5px;
+  list-style: none;
+  
+}

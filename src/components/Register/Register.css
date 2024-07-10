@@ -1,0 +1,18 @@
+/* Register.css */
+
+.Register {
+    margin: 0 auto;  /* Center the form horizontally */
+    padding: 20px;
+  }
+  
+  .Register h2 {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .Register input,
+  .Register button {
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+  
